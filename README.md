@@ -9,11 +9,11 @@ It was built using **Power BI Desktop**, allowing interactive dashboards and ins
 ---
 
 ## 🎯 Features
--Overall KPIs – Total bookings, revenue, average booking value, ride distance.
--Vehicle Analysis – Breakdown of rides and revenue by bike, auto, car.
--Revenue Trends – Daily/monthly revenue, payment method insights.
--Cancellations – Rate analysis, customer vs driver cancellations, key reasons.
--Ratings Dashboard – Average customer and driver ratings by ride.
+- Overall KPIs – Total bookings, revenue, average booking value, ride distance.
+- Vehicle Analysis – Breakdown of rides and revenue by bike, auto, car.
+- Revenue Trends – Daily/monthly revenue, payment method insights.
+- Cancellations – Rate analysis, customer vs driver cancellations, key reasons.
+- Ratings Dashboard – Average customer and driver ratings by ride.
 
 ---
 
